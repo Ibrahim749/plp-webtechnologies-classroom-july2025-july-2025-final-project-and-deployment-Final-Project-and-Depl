@@ -50,7 +50,7 @@ All code is modular, commented, and follows best practices for readability and s
 
 ##  Deployment
 
-The site is deployed using **GitHub Pages**, making it publicly accessible with a shareable URL.
+The site is deployed using **Netlify.com**, making it publicly accessible with a shareable URL (https://musidal-pharmacy.netlify.app/).
 
  Deployment Checklist:
 - All links and scripts work correctly.
