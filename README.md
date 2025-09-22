@@ -1,90 +1,72 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 📦 Final Assignment: Build, Organize, and Deplo
+project-root/
+├── CSS/
+│   └── style.css
+├── Javascript/
+│   └── script.js
+├── HTML_Files/
+│   ├── index.html
+│   ├── about.html
+│   ├── contact.html
+│   ├── service.html
+│   └── dashboard.html
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+#  Musidal Pharmacy Website
 
----
+Welcome to the official repository for the **Musidal Pharmacy** website—built as part of the PLP Web Technologies Final Project. This responsive, multi-page site showcases a fictional pharmacy's mission, services, and contact information, with clean design and interactive features.
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+##  Project Purpose
 
-Before you write any code, take time to plan:
+The goal of this project was to:
+- Apply HTML5, CSS3, and JavaScript to build a real-world, production-ready website.
+- Demonstrate planning, structure, and deployment skills.
+- Create a responsive, accessible, and interactive user experience.
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+##  Website Structure
 
-**Goal:** Show intentional structure and user journey across the site.
+The site includes the following pages:
+- **Home**: Welcoming users with a brief intro and navigation.
+- **About**: Highlights the pharmacy’s mission and team.
+- **Services**: Lists healthcare services offered.
+- **Contact**: Provides a form for inquiries and location details.
+- **Dashboard**: (Optional) Placeholder for future admin or user features.
 
----
+Each page shares a consistent header/footer and navigation bar for seamless user flow.
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+##  Technologies Used
 
-Using your plan, begin building:
+- **HTML5**: Semantic structure across all pages.
+- **CSS3**: Responsive layout, styling, and animations.
+- **JavaScript**: Interactive elements like form validation and menu toggles.
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+##  Code Organization
 
-Each page should:
+- `/HTML_Files`: Contains all HTML pages.
+- `/css`: Stylesheets for layout and design.
+- `/js`: JavaScript files for interactivity.
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+All code is modular, commented, and follows best practices for readability and scalability.
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+##  Deployment
 
----
+The site is deployed using **GitHub Pages**, making it publicly accessible with a shareable URL.
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+ Deployment Checklist:
+- All links and scripts work correctly.
+- Mobile and desktop compatibility confirmed.
+- Live URL: _[Insert your GitHub Pages link here]_
 
-Before deployment, refactor your project to follow production-friendly practices:
+##  Key Features
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+- Mobile-responsive design
+- Interactive contact form
+- Clear navigation and layout
+- Mission-driven content for community engagement
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+##  Contributors
 
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+Built by IBRAHIM SAWANEH as part of the PLP Web Technologies Classroom July 2025 Final Project.
 
 ---
 
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
